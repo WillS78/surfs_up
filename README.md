@@ -22,4 +22,4 @@ The purpose of the analysis is to evaluate if it’s a good business decision fo
 
 # Summary:
 
-## There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
+Over all the data looks favorable to W. Avy and you going into business on a surf shop. Now you just have to pitch it and get started sourcing the building, vendors and getting everything set up.
